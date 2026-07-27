@@ -17,6 +17,14 @@
 
 <br/><br/>
 
+<div align="center">
+  <a href="mailto:ousmanefaye@esp.sn">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMThjZjZiOGVlYzdkNWIyNDZjYzMzYWYxYjA5Zjg5YWMxY2UzZjQ4MiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3o7TKSjRrfIPjeiVyM/giphy.gif" width="150" alt="Hire Me 3D" style="border-radius: 15px;"/>
+  </a>
+</div>
+
+<br/><br/>
+
 <img src="https://komarev.com/ghpvc/?username=ouzfeya7&label=Visiteurs&color=7AA2F7&style=for-the-badge" alt="Profile views"/>
 
 </div>
@@ -52,6 +60,7 @@
 ### <img src="https://api.iconify.design/lucide:trending-up.svg?color=%237AA2F7" width="22" align="top"> En ce moment
 
 - <img src="https://api.iconify.design/lucide:building.svg?color=%23BB9AF7" width="16" align="top"> Portail institutionnel **UMMISCO Sénégal** (FastAPI + Next.js)
+- <img src="https://api.iconify.design/lucide:heart-pulse.svg?color=%23BB9AF7" width="16" align="top"> Système de gestion médicale **XEETALI** (Suivi & KPIs)
 - <img src="https://api.iconify.design/lucide:box.svg?color=%23BB9AF7" width="16" align="top"> Conteneurisation & déploiement **Docker / CI/CD**
 - <img src="https://api.iconify.design/lucide:bot.svg?color=%23BB9AF7" width="16" align="top"> Projets **Machine Learning** avec pandas
 - <img src="https://api.iconify.design/lucide:ruler.svg?color=%23BB9AF7" width="16" align="top"> Approfondissement **DSA & Algorithmes**
@@ -80,27 +89,27 @@
 <br/><br/>
 
 <h3><img src="https://api.iconify.design/lucide:palette.svg?color=%23BB9AF7" width="24" align="top"> Frontend</h3>
-<img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,html,css,vite&theme=dark" alt="Frontend" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,vite,redux,bootstrap,mui&theme=dark" alt="Frontend" />
 
 <br/><br/>
 
 <h3><img src="https://api.iconify.design/lucide:server.svg?color=%23BB9AF7" width="24" align="top"> Backend & APIs</h3>
-<img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,nodejs,express&theme=dark" alt="Backend" />
+<img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,nodejs,express,nestjs,graphql,django&theme=dark" alt="Backend" />
 
 <br/><br/>
 
-<h3><img src="https://api.iconify.design/lucide:database.svg?color=%23BB9AF7" width="24" align="top"> Bases de données</h3>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&theme=dark" alt="Databases" />
+<h3><img src="https://api.iconify.design/lucide:database.svg?color=%23BB9AF7" width="24" align="top"> Bases de données & ORM</h3>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite,prisma,supabase,firebase&theme=dark" alt="Databases" />
 
 <br/><br/>
 
-<h3><img src="https://api.iconify.design/lucide:terminal.svg?color=%23BB9AF7" width="24" align="top"> DevOps & Outils</h3>
-<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,figma,postman&theme=dark" alt="DevOps" />
+<h3><img src="https://api.iconify.design/lucide:terminal.svg?color=%23BB9AF7" width="24" align="top"> DevOps, Cloud & Outils</h3>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,vercel,git,github,githubactions,linux,bash,nginx,figma,postman&theme=dark" alt="DevOps" />
 
 <br/><br/>
 
-<h3><img src="https://api.iconify.design/lucide:flask-conical.svg?color=%23BB9AF7" width="24" align="top"> Testing & Data</h3>
-<img src="https://skillicons.dev/icons?i=jest,junit&theme=dark" alt="Testing" />
+<h3><img src="https://api.iconify.design/lucide:flask-conical.svg?color=%23BB9AF7" width="24" align="top"> Data & Testing</h3>
+<img src="https://skillicons.dev/icons?i=jest,selenium,cypress,py,r&theme=dark" alt="Testing" />
 
 </div>
 
@@ -113,15 +122,27 @@
 
 <div align="center">
 
-<!-- Badges shields.io — 100% fiables, toujours disponibles -->
-<img src="https://img.shields.io/github/followers/ouzfeya7?style=for-the-badge&color=7AA2F7&labelColor=0D1117&label=Followers&logo=github&logoColor=7AA2F7" alt="Followers" />
-<img src="https://img.shields.io/github/stars/ouzfeya7?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=BB9AF7&labelColor=0D1117&label=Stars&logo=github&logoColor=BB9AF7" alt="Stars" />
-<img src="https://img.shields.io/badge/Repos_Publics-voir_GitHub-9ECE6A?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=9ECE6A" alt="Repos" />
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=ouzfeya7&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+</a>
 
 <br/><br/>
 
-<!-- Streak stats — fonctionne de facon fiable -->
-<img src="https://streak-stats.demolab.com?user=ouzfeya7&theme=tokyonight&hide_border=true&background=0D1117&ring=7AA2F7&fire=BB9AF7&currStreakLabel=7AA2F7&sideLabels=A9B1D6&dates=A9B1D6" alt="GitHub Streak" />
+<!-- Stats avancées avec animations -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=ouzfeya7&show_icons=true&theme=tokyonight&title_color=7AA2F7&icon_color=BB9AF7&text_color=A9B1D6&bg_color=0D1117&hide_border=true&locale=fr" alt="GitHub Stats" width="48%" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ouzfeya7&layout=compact&theme=tokyonight&title_color=7AA2F7&text_color=A9B1D6&bg_color=0D1117&hide_border=true&locale=fr" alt="Top Languages" width="48%" />
+</a>
+
+<br/><br/>
+
+<!-- Streak stats & WakaTime -->
+<img src="https://streak-stats.demolab.com?user=ouzfeya7&theme=tokyonight&hide_border=true&background=0D1117&ring=7AA2F7&fire=BB9AF7&currStreakLabel=7AA2F7&sideLabels=A9B1D6&dates=A9B1D6" alt="GitHub Streak" width="48%" />
+<a href="https://wakatime.com/@ouzfeya7">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ouzfeya7&layout=compact&theme=tokyonight&title_color=7AA2F7&text_color=A9B1D6&bg_color=0D1117&hide_border=true&langs_count=5" alt="Statistiques WakaTime" width="48%" />
+</a>
 
 </div>
 
@@ -211,6 +232,26 @@ Implémentations d'algorithmes classiques et structures de données — avec ana
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ouzfeya7/ouzfeya7/output/github-contribution-grid-snake.svg" />
     <img src="https://raw.githubusercontent.com/ouzfeya7/ouzfeya7/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
   </picture>
+</div>
+
+---
+
+### <img src="https://api.iconify.design/lucide:box.svg?color=%237AA2F7" width="24" align="top"> 3D Contribution Graph
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ouzfeya7/ouzfeya7/main/profile-3d-contrib/profile-night-rainbow.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ouzfeya7/ouzfeya7/main/profile-3d-contrib/profile-gitblock.svg" />
+    <img src="https://raw.githubusercontent.com/ouzfeya7/ouzfeya7/main/profile-3d-contrib/profile-gitblock.svg" alt="3D Contribution Graph" width="100%"/>
+  </picture>
+</div>
+
+---
+
+### <img src="https://api.iconify.design/lucide:quote.svg?color=%23BB9AF7" width="24" align="top"> Ma philosophie
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=5000&pause=2000&color=A9B1D6&center=true&vCenter=true&width=800&lines=Le+roi+des+pirates%2C+ce+sera+moi!+—+Luffy;Je+ne+reviendrai+jamais+sur+ma+parole!+—+Naruto;Un+code+propre+vaut+mieux+qu'un+code+rapide+—+Clean+Code;La+seule+limite+à+notre+épanouissement+de+demain...;...sera+nos+doutes+d'aujourd'hui+—+Franklin+Roosevelt;On+ne+devient+pas+Hokage+en+un+jour!+—+Naruto" alt="Citations animées" />
 </div>
 
 ---
