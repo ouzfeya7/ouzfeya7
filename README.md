@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d2137,100:0a3a6b&height=200&section=header&text=Ousmane+Faye+%F0%9F%91%8B&fontSize=42&fontColor=7AA2F7&fontAlignY=38&desc=Bienvenue+sur+mon+espace+GitHub&descAlignY=58&descColor=BB9AF7&animation=fadeIn" width="100%"/>
 
 <br/>
@@ -113,15 +113,15 @@
 
 <div align="center">
 
-![](https://github-readme-stats-fast.vercel.app/api?username=ouzfeya7&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=0D1117&title_color=7AA2F7&icon_color=BB9AF7&text_color=A9B1D6)
+<img src="https://github-readme-stats.vercel.app/api?username=ouzfeya7&theme=tokyonight&hide_border=true&show_icons=true&bg_color=0D1117&title_color=7AA2F7&icon_color=BB9AF7&text_color=A9B1D6&rank_icon=github" alt="GitHub Stats" />
 
 <br/>
 
-![](https://nirzak-streak-stats.vercel.app/?user=ouzfeya7&theme=tokyonight&hide_border=true&background=0D1117&ring=7AA2F7&fire=BB9AF7&currStreakLabel=7AA2F7)
+<img src="https://streak-stats.demolab.com?user=ouzfeya7&theme=tokyonight&hide_border=true&background=0D1117&ring=7AA2F7&fire=BB9AF7&currStreakLabel=7AA2F7&sideLabels=A9B1D6&dates=A9B1D6" alt="GitHub Streak" />
 
 <br/>
 
-![](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ouzfeya7&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&title_color=7AA2F7&text_color=A9B1D6)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ouzfeya7&theme=tokyonight&hide_border=true&layout=compact&bg_color=0D1117&title_color=7AA2F7&text_color=A9B1D6&langs_count=8" alt="Top Languages" />
 
 </div>
 
@@ -136,11 +136,11 @@
 
 ### 🏆 GitHub Trophées
 
-![](https://github-profile-trophy.vercel.app/?username=ouzfeya7&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
+<img src="https://github-profile-trophy.vercel.app/?username=ouzfeya7&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophées" />
 
 ### 📈 Graphe d'Activité
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=ouzfeya7&bg_color=0D1117&color=7AA2F7&line=BB9AF7&point=A9B1D6&area=true&hide_border=true&custom_title=Activit%C3%A9%20%E2%80%94%20Derniers%2031%20jours)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ouzfeya7&bg_color=0D1117&color=7AA2F7&line=BB9AF7&point=A9B1D6&area=true&hide_border=true" alt="Graphe d'activité" />
 
 </div>
 
