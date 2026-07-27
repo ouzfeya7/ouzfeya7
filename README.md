@@ -1,10 +1,10 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d2137,100:0a3a6b&height=200&section=header&text=Ousmane+Faye+%F0%9F%91%8B&fontSize=42&fontColor=7AA2F7&fontAlignY=38&desc=Bienvenue+sur+mon+espace+GitHub&descAlignY=58&descColor=BB9AF7&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d2137,100:0a3a6b&height=200&section=header&text=Ousmane+Faye&fontSize=42&fontColor=7AA2F7&fontAlignY=38&desc=Bienvenue+sur+mon+espace+GitHub&descAlignY=58&descColor=BB9AF7&animation=fadeIn" width="100%"/>
 
 <br/>
 
 <a href="https://github.com/ouzfeya7">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=7AA2F7&center=true&vCenter=true&width=720&lines=%C3%89l%C3%A8ve+Ing%C3%A9nieur+en+Informatique+%F0%9F%8E%93;Full+Stack+%3A+React+%2B+Spring+Boot+%2B+FastAPI;Docker+%C2%B7+CI%2FCD+%C2%B7+PostgreSQL+%C2%B7+MongoDB;ESP+%2F+UCAD+%E2%80%94+Dakar%2C+S%C3%A9n%C3%A9gal+%F0%9F%87%B8%F0%9F%87%B3;Ouvert+aux+stages+%26+collaborations+%F0%9F%9A%80" alt="Ousmane Faye" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=7AA2F7&center=true&vCenter=true&width=720&lines=%C3%89l%C3%A8ve+Ing%C3%A9nieur+en+Informatique;Full+Stack+%3A+React+%2B+Spring+Boot+%2B+FastAPI;Docker+%C2%B7+CI%2FCD+%C2%B7+PostgreSQL+%C2%B7+MongoDB;ESP+%2F+UCAD+%E2%80%94+Dakar%2C+S%C3%A9n%C3%A9gal;Ouvert+aux+stages+%26+collaborations" alt="Ousmane Faye" />
 </a>
 
 <br/><br/>
