@@ -15,11 +15,9 @@
 &nbsp;
 <a href="https://github.com/ouzfeya7"><img src="https://img.shields.io/badge/GitHub-A9B1D6?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=0D1117" alt="GitHub"/></a>
 
-<br/><br/>
-
 <div align="center">
   <a href="mailto:ousmanefaye@esp.sn">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMThjZjZiOGVlYzdkNWIyNDZjYzMzYWYxYjA5Zjg5YWMxY2UzZjQ4MiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3o7TKSjRrfIPjeiVyM/giphy.gif" width="150" alt="Hire Me 3D" style="border-radius: 15px;"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=3000&pause=1000&color=9ECE6A&center=true&vCenter=true&width=400&lines=🚀+OPEN+TO+WORK+;💼+RECHERCHE+DE+STAGE+;🤝+PRÊT+À+COLLABORER+" alt="Open To Work" />
   </a>
 </div>
 
