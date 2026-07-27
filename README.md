@@ -113,15 +113,21 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ouzfeya7&theme=tokyonight&hide_border=true&show_icons=true&bg_color=0D1117&title_color=7AA2F7&icon_color=BB9AF7&text_color=A9B1D6&rank_icon=github" alt="GitHub Stats" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ouzfeya7&theme=tokyonight&hide_border=true&show_icons=true&bg_color=0D1117&title_color=7AA2F7&icon_color=BB9AF7&text_color=A9B1D6&cache_seconds=3600" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ouzfeya7&theme=tokyonight&hide_border=true&show_icons=true&bg_color=0D1117&title_color=7AA2F7&icon_color=BB9AF7&text_color=A9B1D6&cache_seconds=3600" alt="GitHub Stats" />
+</picture>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=ouzfeya7&theme=tokyonight&hide_border=true&background=0D1117&ring=7AA2F7&fire=BB9AF7&currStreakLabel=7AA2F7&sideLabels=A9B1D6&dates=A9B1D6" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=ouzfeya7&theme=tokyonight&hide_border=true&background=0D1117&ring=7AA2F7&fire=BB9AF7&currStreakLabel=7AA2F7&sideLabels=A9B1D6&dates=A9B1D6&cache_seconds=3600" alt="GitHub Streak" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ouzfeya7&theme=tokyonight&hide_border=true&layout=compact&bg_color=0D1117&title_color=7AA2F7&text_color=A9B1D6&langs_count=8" alt="Top Languages" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ouzfeya7&theme=tokyonight&hide_border=true&layout=compact&bg_color=0D1117&title_color=7AA2F7&text_color=A9B1D6&langs_count=8&cache_seconds=3600" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ouzfeya7&theme=tokyonight&hide_border=true&layout=compact&bg_color=0D1117&title_color=7AA2F7&text_color=A9B1D6&langs_count=8&cache_seconds=3600" alt="Top Languages" />
+</picture>
 
 </div>
 
@@ -136,11 +142,15 @@
 
 ### 🏆 GitHub Trophées
 
-<img src="https://github-profile-trophy.vercel.app/?username=ouzfeya7&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophées" />
+<a href="https://github.com/ouzfeya7">
+  <img src="https://github-profile-trophy.vercel.app/?username=ouzfeya7&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4" alt="GitHub Trophées" />
+</a>
 
 ### 📈 Graphe d'Activité
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ouzfeya7&bg_color=0D1117&color=7AA2F7&line=BB9AF7&point=A9B1D6&area=true&hide_border=true" alt="Graphe d'activité" />
+<a href="https://github.com/ouzfeya7">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ouzfeya7&bg_color=0D1117&color=7AA2F7&line=BB9AF7&point=A9B1D6&area=true&hide_border=true" alt="Graphe d'activité" />
+</a>
 
 </div>
 
