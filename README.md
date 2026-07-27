@@ -204,8 +204,13 @@ Implémentations d'algorithmes classiques et structures de données — avec ana
 
 ### 🐍 Contribution Snake
 
+<!-- Le snake sera visible après le premier Run du workflow GitHub Actions "Generate Snake Animation" -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ouzfeya7/ouzfeya7/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ouzfeya7/ouzfeya7/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ouzfeya7/ouzfeya7/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/ouzfeya7/ouzfeya7/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+  </picture>
 </div>
 
 ---
