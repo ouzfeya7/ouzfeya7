@@ -1,128 +1,243 @@
-**Voici tout le contenu final dans un seul bloc de code markdown prêt à copier-coller :**
+﻿<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d2137,100:0a3a6b&height=200&section=header&text=Ousmane+Faye+%F0%9F%91%8B&fontSize=42&fontColor=7AA2F7&fontAlignY=38&desc=Bienvenue+sur+mon+espace+GitHub&descAlignY=58&descColor=BB9AF7&animation=fadeIn" width="100%"/>
 
-markdown
-<h1 align="center">Salut, je suis Ousmane Faye 👋</h1>
+<br/>
 
-<p align="center">
-  <em>Élève Ingénieur en 1ère année DIC · École Supérieure Polytechnique de Dakar 🇸🇳</em>
-</p>
+<a href="https://github.com/ouzfeya7">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=7AA2F7&center=true&vCenter=true&width=720&lines=%C3%89l%C3%A8ve+Ing%C3%A9nieur+en+Informatique+%F0%9F%8E%93;Full+Stack+%3A+React+%2B+Spring+Boot+%2B+FastAPI;Docker+%C2%B7+CI%2FCD+%C2%B7+PostgreSQL+%C2%B7+MongoDB;ESP+%2F+UCAD+%E2%80%94+Dakar%2C+S%C3%A9n%C3%A9gal+%F0%9F%87%B8%F0%9F%87%B3;Ouvert+aux+stages+%26+collaborations+%F0%9F%9A%80" alt="Ousmane Faye" />
+</a>
 
-<p align="center">
-  <a href="https://linkedin.com/in/ousmane-faye-">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/ouzfeya7">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:ousmanefaye@esp.sn">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+<br/><br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ouzfeya7&label=Visiteurs&color=0e75b6&style=flat" alt="Profile views"/>
-</p>
+<a href="https://linkedin.com/in/ousmane-faye-"><img src="https://img.shields.io/badge/LinkedIn-7AA2F7?style=for-the-badge&logo=linkedin&logoColor=0D1117&labelColor=0D1117" alt="LinkedIn"/></a>
+&nbsp;
+<a href="mailto:ousmanefaye@esp.sn"><img src="https://img.shields.io/badge/Email-BB9AF7?style=for-the-badge&logo=gmail&logoColor=0D1117&labelColor=0D1117" alt="Email"/></a>
+&nbsp;
+<a href="https://github.com/ouzfeya7"><img src="https://img.shields.io/badge/GitHub-A9B1D6?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=0D1117" alt="GitHub"/></a>
 
----
+<br/><br/>
 
-## 🙋‍♂️ À propos de moi
-
-```text
-🎓 Élève Ingénieur en Informatique – DIC1 · ESP Dakar
-💻 Développeur Full Stack : React/TypeScript + Java/Spring Boot
-🗄️ Bases de données : MySQL, Oracle, MongoDB
-🐳 Docker & CI/CD | API REST robustes
-🤖 Initiation au Machine Learning (pandas)
-🌍 Basé à Dakar, Sénégal – Ouvert aux stages et collaborations
-⚡ Fun fact : J'adore résoudre des problèmes d'algorithmes
-```
-
----
-
-## 🧰 Technologies & Outils
-
-
-
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,php,mysql,mongodb,java,android,docker,bootstrap,tailwind,figma,express,nodejs,spring,git,github,jest,junit&perline=9&theme=dark" />
-</p>
-
-
----
-
-## 🚀 Compétences Détaillées
-
-<div align="center">
-
-### **Frontend**
-<img src="https://skillicons.dev/icons?i=react,typescript,tailwind" height="50" />
-<br>
-**React • TypeScript • Tailwind CSS**
-
-### **Backend**
-<img src="https://skillicons.dev/icons?i=java,spring" height="50" />
-<br>
-**Java • Spring Boot (Spring MVC, Spring Data JPA)**
-
-### **Bases de Données**
-<img src="https://skillicons.dev/icons?i=mysql,oracle,mongodb" height="50" />
-<br>
-**MySQL • Oracle • MongoDB**
-
-### **API**
-**REST API** — Conception, Intégration, Validation, Gestion d’erreurs
-
-### **DevOps & Versioning**
-<img src="https://skillicons.dev/icons?i=docker,git,github" height="50" />
-<br>
-**Docker • CI/CD • Git • GitHub**
-
-### **Testing & Data**
-<img src="https://skillicons.dev/icons?i=junit,jest,pandas" height="50" />
-<br>
-**JUnit • Jest • Pandas • Machine Learning**
-
-### **Computer Science**
-**Structures de données • Algorithmes**
+<img src="https://komarev.com/ghpvc/?username=ouzfeya7&label=Visiteurs&color=7AA2F7&style=for-the-badge" alt="Profile views"/>
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 💫 À propos de moi
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ouzfeya7&theme=tokyonight&hide_border=true&border_radius=16" width="60%" alt="Streak Stats"/>
-  <br><br>
+🎓 Élève Ingénieur en Informatique — **DIC1** à l'**École Supérieure Polytechnique** (ESP / UCAD), Dakar — après un DUT qui m'a appris à **réfléchir avant de coder**.
 
-</p>
+💻 Développeur Full Stack passionné par les architectures propres, les APIs bien conçues et les systèmes qui tiennent sous pression.
+
+🛠️ Je gravite vers les systèmes découplés et maintenables — des services qui font une chose, et la font bien.
+
+🧠 J'apprends vite, je vais en profondeur, et je prends rarement le chemin le plus évident.
+
+🌍 Basé à **Dakar** — construit pour le monde.
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### 🎯 Ce que je fais
+
+- **Frontend** — React · TypeScript · Tailwind CSS
+- **Backend** — Spring Boot · FastAPI · Node.js · REST
+- **Base de données** — MySQL · Oracle · PostgreSQL · MongoDB
+- **DevOps** — Docker · CI/CD · Git · GitHub Actions
+
+</td>
+<td valign="top" width="50%">
+
+### 📈 En ce moment
+
+- 🏗️ Portail institutionnel **UMMISCO Sénégal** (FastAPI + Next.js)
+- 🐳 Conteneurisation & déploiement **Docker / CI/CD**
+- 🤖 Projets **Machine Learning** avec pandas
+- 📐 Approfondissement **DSA & Algorithmes**
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🔭 Ce sur quoi je travaille actuellement
+<details open>
+<summary><h2>🛠️ Tech Stack</h2></summary>
 
-- 🏗️ Applications **Full Stack React + Spring Boot**
-- 🐳 Conteneurisation et déploiement avec **Docker & CI/CD**
-- 🤖 Projets de **Machine Learning** avec pandas
-- 📐 Approfondissement des **Structures de données & Algorithmes**
+<div align="center">
+
+<h3>⚡ Technologies clés</h3>
+
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65"/>
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65"/>
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65"/>
+<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65"/>
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65"/>
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65"/>
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65"/>
+
+<br/><br/>
+
+<h3>🎨 Frontend</h3>
+<img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,html,css,vite&theme=dark" alt="Frontend" />
+
+<br/><br/>
+
+<h3>⚙️ Backend & APIs</h3>
+<img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,nodejs,express&theme=dark" alt="Backend" />
+
+<br/><br/>
+
+<h3>🗄️ Bases de données</h3>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&theme=dark" alt="Databases" />
+
+<br/><br/>
+
+<h3>🔧 DevOps & Outils</h3>
+<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,figma,postman&theme=dark" alt="DevOps" />
+
+<br/><br/>
+
+<h3>🧪 Testing & Data</h3>
+<img src="https://skillicons.dev/icons?i=jest,junit&theme=dark" alt="Testing" />
+
+</div>
+
+</details>
 
 ---
 
-## 🤝 Collaboration & Contact
+<details open>
+<summary><h2>📊 GitHub Stats</h2></summary>
 
-> Je suis ouvert aux **stages**, **collaborations open source**, et projets innovants. N’hésite pas à me contacter !
+<div align="center">
 
-<p align="center">
-  <a href="https://linkedin.com/in/ousmane-faye-">
-    <img src="https://img.shields.io/badge/Discutons_sur_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
+![](https://github-readme-stats-fast.vercel.app/api?username=ouzfeya7&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=0D1117&title_color=7AA2F7&icon_color=BB9AF7&text_color=A9B1D6)
+
+<br/>
+
+![](https://nirzak-streak-stats.vercel.app/?user=ouzfeya7&theme=tokyonight&hide_border=true&background=0D1117&ring=7AA2F7&fire=BB9AF7&currStreakLabel=7AA2F7)
+
+<br/>
+
+![](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ouzfeya7&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&title_color=7AA2F7&text_color=A9B1D6)
+
+</div>
+
+</details>
 
 ---
 
-<p align="center">
-  <strong>⭐ Si mon profil vous plaît, n’hésitez pas à mettre une étoile sur mes projets !</strong>
-</p>
-```
+<details open>
+<summary><h2>🏆 Trophées & Activité</h2></summary>
 
+<div align="center">
+
+### 🏆 GitHub Trophées
+
+![](https://github-profile-trophy.vercel.app/?username=ouzfeya7&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
+
+### 📈 Graphe d'Activité
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=ouzfeya7&bg_color=0D1117&color=7AA2F7&line=BB9AF7&point=A9B1D6&area=true&hide_border=true&custom_title=Activit%C3%A9%20%E2%80%94%20Derniers%2031%20jours)
+
+</div>
+
+</details>
+
+---
+
+## 🌟 Projets Phares
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### 🏛️ [UMMISCO — Portail Institutionnel](https://github.com/ouzfeya7/IPDL-project)
+
+[![lang](https://img.shields.io/github/languages/top/ouzfeya7/IPDL-project?style=flat-square&color=7AA2F7&labelColor=0D1117)](https://github.com/ouzfeya7/IPDL-project)
+[![code-size](https://img.shields.io/github/languages/code-size/ouzfeya7/IPDL-project?style=flat-square&color=BB9AF7&labelColor=0D1117)](https://github.com/ouzfeya7/IPDL-project)
+
+Portail institutionnel de l'UMMISCO ESP/UCAD — **Next.js 14 + FastAPI + PostgreSQL**, auth Keycloak OAuth2/OIDC, stockage MinIO, recherche MeiliSearch.
+
+`Next.js` `FastAPI` `PostgreSQL` `Keycloak` `Docker`
+
+</td>
+<td valign="top" width="50%">
+
+### 🛒 E-Commerce Full Stack
+
+[![lang](https://img.shields.io/badge/Stack-React%20%2B%20Spring-7AA2F7?style=flat-square&labelColor=0D1117)](https://github.com/ouzfeya7)
+
+Application e-commerce complète — **Clean Architecture**, auth JWT, panier, commandes, dashboard admin. React/TypeScript + Spring Boot + MySQL.
+
+`React` `TypeScript` `Spring Boot` `MySQL` `Docker`
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+### 🤖 Machine Learning & Data
+
+[![lang](https://img.shields.io/badge/Stack-Python%20%2B%20Pandas-BB9AF7?style=flat-square&labelColor=0D1117)](https://github.com/ouzfeya7)
+
+Exploration et analyse de données — modèles prédictifs, visualisations, nettoyage de datasets réels avec **Python, pandas & scikit-learn**.
+
+`Python` `Pandas` `Scikit-learn` `Jupyter`
+
+</td>
+<td valign="top" width="50%">
+
+### 📐 Algorithmes & DSA
+
+[![lang](https://img.shields.io/badge/Stack-Java%20%2B%20TypeScript-9ECE6A?style=flat-square&labelColor=0D1117)](https://github.com/ouzfeya7)
+
+Implémentations d'algorithmes classiques et structures de données — avec analyses de complexité et **tests JUnit/Jest**.
+
+`Java` `TypeScript` `JUnit` `Jest`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<a href="https://github.com/ouzfeya7?tab=repositories"><strong>→ Voir tous mes dépôts</strong></a>
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ouzfeya7/ouzfeya7/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+</div>
+
+---
+
+## 🌐 Contactez-moi
+
+<div align="center">
+
+<p><strong>Je réponds sous 24h &nbsp;·&nbsp; Disponible en Français & Anglais</strong></p>
+
+<p>
+  <a href="https://linkedin.com/in/ousmane-faye-"><img src="https://img.shields.io/badge/LinkedIn-7AA2F7?style=for-the-badge&logo=linkedin&logoColor=0D1117&labelColor=0D1117" alt="LinkedIn"/></a>
+  &nbsp;
+  <a href="mailto:ousmanefaye@esp.sn"><img src="https://img.shields.io/badge/Email-BB9AF7?style=for-the-badge&logo=gmail&logoColor=0D1117&labelColor=0D1117" alt="Email"/></a>
+</p>
+
+<p><strong>Ouvert aux stages, collaborations open source et projets innovants !</strong></p>
+
+<br/>
+
+[![](https://visitcount.itsvg.in/api?id=ouzfeya7&icon=0&color=6)](https://visitcount.itsvg.in)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a3a6b,50:0d2137,100:0d1117&height=120&section=footer" width="100%"/>
+
+<sub><i>"Le code que tu écris aujourd'hui construit le monde de demain."</i> 🚀</sub>
+
+</div>
