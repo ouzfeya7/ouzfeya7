@@ -113,21 +113,15 @@
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ouzfeya7&theme=tokyonight&hide_border=true&show_icons=true&bg_color=0D1117&title_color=7AA2F7&icon_color=BB9AF7&text_color=A9B1D6&cache_seconds=3600" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ouzfeya7&theme=tokyonight&hide_border=true&show_icons=true&bg_color=0D1117&title_color=7AA2F7&icon_color=BB9AF7&text_color=A9B1D6&cache_seconds=3600" alt="GitHub Stats" />
-</picture>
+<!-- Badges shields.io — 100% fiables, toujours disponibles -->
+<img src="https://img.shields.io/github/followers/ouzfeya7?style=for-the-badge&color=7AA2F7&labelColor=0D1117&label=Followers&logo=github&logoColor=7AA2F7" alt="Followers" />
+<img src="https://img.shields.io/github/stars/ouzfeya7?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=BB9AF7&labelColor=0D1117&label=Stars&logo=github&logoColor=BB9AF7" alt="Stars" />
+<img src="https://img.shields.io/badge/Repos_Publics-voir_GitHub-9ECE6A?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=9ECE6A" alt="Repos" />
 
-<br/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=ouzfeya7&theme=tokyonight&hide_border=true&background=0D1117&ring=7AA2F7&fire=BB9AF7&currStreakLabel=7AA2F7&sideLabels=A9B1D6&dates=A9B1D6&cache_seconds=3600" alt="GitHub Streak" />
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ouzfeya7&theme=tokyonight&hide_border=true&layout=compact&bg_color=0D1117&title_color=7AA2F7&text_color=A9B1D6&langs_count=8&cache_seconds=3600" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ouzfeya7&theme=tokyonight&hide_border=true&layout=compact&bg_color=0D1117&title_color=7AA2F7&text_color=A9B1D6&langs_count=8&cache_seconds=3600" alt="Top Languages" />
-</picture>
+<!-- Streak stats — fonctionne de facon fiable -->
+<img src="https://streak-stats.demolab.com?user=ouzfeya7&theme=tokyonight&hide_border=true&background=0D1117&ring=7AA2F7&fire=BB9AF7&currStreakLabel=7AA2F7&sideLabels=A9B1D6&dates=A9B1D6" alt="GitHub Streak" />
 
 </div>
 
@@ -136,21 +130,11 @@
 ---
 
 <details open>
-<summary><h2>🏆 Trophées & Activité</h2></summary>
+<summary><h2>📈 Activité</h2></summary>
 
 <div align="center">
 
-### 🏆 GitHub Trophées
-
-<a href="https://github.com/ouzfeya7">
-  <img src="https://github-profile-trophy.vercel.app/?username=ouzfeya7&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4" alt="GitHub Trophées" />
-</a>
-
-### 📈 Graphe d'Activité
-
-<a href="https://github.com/ouzfeya7">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ouzfeya7&bg_color=0D1117&color=7AA2F7&line=BB9AF7&point=A9B1D6&area=true&hide_border=true" alt="Graphe d'activité" />
-</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ouzfeya7&bg_color=0D1117&color=7AA2F7&line=BB9AF7&point=A9B1D6&area=true&hide_border=true" alt="Graphe d'activité" />
 
 </div>
 
