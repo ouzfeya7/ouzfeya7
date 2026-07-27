@@ -9,11 +9,11 @@
 
 <br/><br/>
 
-<a href="https://linkedin.com/in/ousmane-faye-"><img src="https://img.shields.io/badge/LinkedIn-7AA2F7?style=for-the-badge&logo=linkedin&logoColor=0D1117&labelColor=0D1117" alt="LinkedIn"/></a>
+<a href="https://linkedin.com/in/ousmane-faye-"><img src="https://img.shields.io/badge/LinkedIn-7AA2F7?style=flat&logo=linkedin&logoColor=0D1117&labelColor=0D1117" alt="LinkedIn"/></a>
 &nbsp;
-<a href="mailto:ousmanefaye@esp.sn"><img src="https://img.shields.io/badge/Email-BB9AF7?style=for-the-badge&logo=gmail&logoColor=0D1117&labelColor=0D1117" alt="Email"/></a>
+<a href="mailto:ousmanefaye@esp.sn"><img src="https://img.shields.io/badge/Email-BB9AF7?style=flat&logo=gmail&logoColor=0D1117&labelColor=0D1117" alt="Email"/></a>
 &nbsp;
-<a href="https://github.com/ouzfeya7"><img src="https://img.shields.io/badge/GitHub-A9B1D6?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=0D1117" alt="GitHub"/></a>
+<a href="https://github.com/ouzfeya7"><img src="https://img.shields.io/badge/GitHub-A9B1D6?style=flat&logo=github&logoColor=0D1117&labelColor=0D1117" alt="GitHub"/></a>
 
 <div align="center">
 
@@ -23,7 +23,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=ouzfeya7&label=Visiteurs&color=7AA2F7&style=for-the-badge" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=ouzfeya7&label=Visiteurs&color=7AA2F7&style=flat" alt="Profile views"/>
 
 </div>
 
@@ -163,8 +163,8 @@
 
 ### <img src="https://api.iconify.design/lucide:landmark.svg?color=%23BB9AF7" width="22" align="top"> [UMMISCO — Portail Institutionnel](https://github.com/ouzfeya7/IPDL-project)
 
-[![lang](https://img.shields.io/github/languages/top/ouzfeya7/IPDL-project?style=flat-square&color=7AA2F7&labelColor=0D1117)](https://github.com/ouzfeya7/IPDL-project)
-[![code-size](https://img.shields.io/github/languages/code-size/ouzfeya7/IPDL-project?style=flat-square&color=BB9AF7&labelColor=0D1117)](https://github.com/ouzfeya7/IPDL-project)
+[![lang](https://img.shields.io/github/languages/top/ouzfeya7/IPDL-project?style=flat&color=7AA2F7&labelColor=0D1117)](https://github.com/ouzfeya7/IPDL-project)
+[![code-size](https://img.shields.io/github/languages/code-size/ouzfeya7/IPDL-project?style=flat&color=BB9AF7&labelColor=0D1117)](https://github.com/ouzfeya7/IPDL-project)
 
 Portail institutionnel de l'UMMISCO ESP/UCAD — **Next.js 14 + FastAPI + PostgreSQL**, auth Keycloak OAuth2/OIDC, stockage MinIO, recherche MeiliSearch.
 
@@ -175,7 +175,7 @@ Portail institutionnel de l'UMMISCO ESP/UCAD — **Next.js 14 + FastAPI + Postgr
 
 ### <img src="https://api.iconify.design/lucide:shopping-cart.svg?color=%23BB9AF7" width="22" align="top"> E-Commerce Full Stack
 
-[![lang](https://img.shields.io/badge/Stack-React%20%2B%20Spring-7AA2F7?style=flat-square&labelColor=0D1117)](https://github.com/ouzfeya7)
+[![lang](https://img.shields.io/badge/Stack-React%20%2B%20Spring-7AA2F7?style=flat&labelColor=0D1117)](https://github.com/ouzfeya7)
 
 Application e-commerce complète — **Clean Architecture**, auth JWT, panier, commandes, dashboard admin. React/TypeScript + Spring Boot + MySQL.
 
@@ -188,7 +188,7 @@ Application e-commerce complète — **Clean Architecture**, auth JWT, panier, c
 
 ### <img src="https://api.iconify.design/lucide:bot.svg?color=%23BB9AF7" width="22" align="top"> Machine Learning & Data
 
-[![lang](https://img.shields.io/badge/Stack-Python%20%2B%20Pandas-BB9AF7?style=flat-square&labelColor=0D1117)](https://github.com/ouzfeya7)
+[![lang](https://img.shields.io/badge/Stack-Python%20%2B%20Pandas-BB9AF7?style=flat&labelColor=0D1117)](https://github.com/ouzfeya7)
 
 Exploration et analyse de données — modèles prédictifs, visualisations, nettoyage de datasets réels avec **Python, pandas & scikit-learn**.
 
@@ -199,7 +199,7 @@ Exploration et analyse de données — modèles prédictifs, visualisations, net
 
 ### <img src="https://api.iconify.design/lucide:git-merge.svg?color=%23BB9AF7" width="22" align="top"> Algorithmes & DSA
 
-[![lang](https://img.shields.io/badge/Stack-Java%20%2B%20TypeScript-9ECE6A?style=flat-square&labelColor=0D1117)](https://github.com/ouzfeya7)
+[![lang](https://img.shields.io/badge/Stack-Java%20%2B%20TypeScript-9ECE6A?style=flat&labelColor=0D1117)](https://github.com/ouzfeya7)
 
 Implémentations d'algorithmes classiques et structures de données — avec analyses de complexité et **tests JUnit/Jest**.
 
@@ -255,9 +255,9 @@ Implémentations d'algorithmes classiques et structures de données — avec ana
 <p><strong>Je réponds sous 24h &nbsp;·&nbsp; Disponible en Français & Anglais</strong></p>
 
 <p>
-  <a href="https://linkedin.com/in/ousmane-faye-"><img src="https://img.shields.io/badge/LinkedIn-7AA2F7?style=for-the-badge&logo=linkedin&logoColor=0D1117&labelColor=0D1117" alt="LinkedIn"/></a>
+  <a href="https://linkedin.com/in/ousmane-faye-"><img src="https://img.shields.io/badge/LinkedIn-7AA2F7?style=flat&logo=linkedin&logoColor=0D1117&labelColor=0D1117" alt="LinkedIn"/></a>
   &nbsp;
-  <a href="mailto:ousmanefaye@esp.sn"><img src="https://img.shields.io/badge/Email-BB9AF7?style=for-the-badge&logo=gmail&logoColor=0D1117&labelColor=0D1117" alt="Email"/></a>
+  <a href="mailto:ousmanefaye@esp.sn"><img src="https://img.shields.io/badge/Email-BB9AF7?style=flat&logo=gmail&logoColor=0D1117&labelColor=0D1117" alt="Email"/></a>
 </p>
 
 <p><strong>Ouvert aux stages, collaborations open source et projets innovants !</strong></p>
