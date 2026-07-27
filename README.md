@@ -16,9 +16,7 @@
 <a href="https://github.com/ouzfeya7"><img src="https://img.shields.io/badge/GitHub-A9B1D6?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=0D1117" alt="GitHub"/></a>
 
 <div align="center">
-  <a href="mailto:ousmanefaye@esp.sn">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=3000&pause=1000&color=9ECE6A&center=true&vCenter=true&width=400&lines=🚀+OPEN+TO+WORK+;💼+RECHERCHE+DE+STAGE+;🤝+PRÊT+À+COLLABORER+" alt="Open To Work" />
-  </a>
+  <a href="mailto:ousmanefaye@esp.sn"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=3000&pause=1000&color=9ECE6A&center=true&vCenter=true&width=400&lines=OPEN+TO+WORK;RECHERCHE+DE+STAGE;PRET+A+COLLABORER" alt="Open To Work" /></a>
 </div>
 
 <br/><br/>
@@ -120,27 +118,19 @@
 
 <div align="center">
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=ouzfeya7&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
-</a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ouzfeya7&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" /></a>
 
 <br/><br/>
 
 <!-- Stats avancées avec animations -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=ouzfeya7&show_icons=true&theme=tokyonight&title_color=7AA2F7&icon_color=BB9AF7&text_color=A9B1D6&bg_color=0D1117&hide_border=true&locale=fr" alt="GitHub Stats" width="48%" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ouzfeya7&layout=compact&theme=tokyonight&title_color=7AA2F7&text_color=A9B1D6&bg_color=0D1117&hide_border=true&locale=fr" alt="Top Languages" width="48%" />
-</a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=ouzfeya7&show_icons=true&theme=tokyonight&title_color=7AA2F7&icon_color=BB9AF7&text_color=A9B1D6&bg_color=0D1117&hide_border=true&locale=fr" alt="GitHub Stats" width="48%" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ouzfeya7&layout=compact&theme=tokyonight&title_color=7AA2F7&text_color=A9B1D6&bg_color=0D1117&hide_border=true&locale=fr" alt="Top Languages" width="48%" /></a>
 
 <br/><br/>
 
 <!-- Streak stats & WakaTime -->
 <img src="https://streak-stats.demolab.com?user=ouzfeya7&theme=tokyonight&hide_border=true&background=0D1117&ring=7AA2F7&fire=BB9AF7&currStreakLabel=7AA2F7&sideLabels=A9B1D6&dates=A9B1D6" alt="GitHub Streak" width="48%" />
-<a href="https://wakatime.com/@ouzfeya7">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ouzfeya7&layout=compact&theme=tokyonight&title_color=7AA2F7&text_color=A9B1D6&bg_color=0D1117&hide_border=true&langs_count=5" alt="Statistiques WakaTime" width="48%" />
-</a>
+<a href="https://wakatime.com/@ouzfeya7"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=ouzfeya7&layout=compact&theme=tokyonight&title_color=7AA2F7&text_color=A9B1D6&bg_color=0D1117&hide_border=true&langs_count=5" alt="Statistiques WakaTime" width="48%" /></a>
 
 </div>
 
