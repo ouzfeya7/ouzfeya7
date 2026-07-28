@@ -212,10 +212,10 @@ def calendar_svg(u):
 
     # Plus gros pour être bien lisible sur un écran 1080p
     CELL, GAP = 14, 4
-    PAD_L, PAD_T = 40, 70
+    PAD_L, PAD_T = 40, 90
     n_weeks = len(weeks)
-    W = 890
-    H = 220
+    W = 1060
+    H = 240
 
     LVL = ["#161b22", "#0e4429", "#006d32", "#26a641", "#39d353"]
     MONTHS_FR = {1:"Jan", 2:"Fév", 3:"Mar", 4:"Avr", 5:"Mai", 6:"Juin", 
@@ -242,7 +242,7 @@ def calendar_svg(u):
                 last_month = dt.month
 
     mlabels = [
-        f'<text x="{PAD_L + wi*(CELL+GAP)}" y="{PAD_T-8}" font-size="12" fill="{TEXT}">{m}</text>'
+        f'<text x="{PAD_L + wi*(CELL+GAP)}" y="{PAD_T-10}" font-size="12" fill="{TEXT}">{m}</text>'
         for wi, m in month_labels.items()
     ]
     dlabels = [
@@ -259,8 +259,8 @@ def calendar_svg(u):
 </defs>
 <style>text{{font-family:{FONT}}}</style>
 <rect width="{W}" height="{H}" rx="10" fill="url(#bg)" stroke="{BORD}"/>
-<text x="{PAD_L}" y="35" font-size="20" font-weight="700" fill="{TEXT}">Contributions</text>
-<text x="{PAD_L}" y="52" font-size="13" fill="{DIM}"><tspan fill="{GREE}" font-weight="700">{total}</tspan> contributions sur la dernière année</text>
+<text x="{PAD_L}" y="40" font-size="20" font-weight="700" fill="{TEXT}">Contributions</text>
+<text x="{PAD_L}" y="60" font-size="13" fill="{DIM}"><tspan fill="{GREE}" font-weight="700">{total}</tspan> contributions sur la dernière année</text>
 {''.join(mlabels)}
 {''.join(dlabels)}
 {''.join(cells)}
@@ -273,8 +273,8 @@ def activity_svg(u):
     days    = all_d[-30:]
     total   = sum(d["contributionCount"] for d in days)
 
-    W, H = 890, 220
-    PL, PR, PT, PB = 40, 40, 70, 45
+    W, H = 1060, 240
+    PL, PR, PT, PB = 40, 40, 90, 45
     baw = W - PL - PR
     bah = H - PT - PB
 
@@ -317,8 +317,8 @@ def activity_svg(u):
 </defs>
 <style>text{{font-family:{FONT}}}</style>
 <rect width="{W}" height="{H}" rx="10" fill="url(#bg)" stroke="{BORD}"/>
-<text x="{PL}" y="35" font-size="20" font-weight="700" fill="{TEXT}">Activité des 30 derniers jours</text>
-<text x="{PL}" y="52" font-size="13" fill="{DIM}"><tspan fill="{BLUE}" font-weight="700">{total}</tspan> contributions le mois dernier</text>
+<text x="{PL}" y="40" font-size="20" font-weight="700" fill="{TEXT}">Activité des 30 derniers jours</text>
+<text x="{PL}" y="60" font-size="13" fill="{DIM}"><tspan fill="{BLUE}" font-weight="700">{total}</tspan> contributions le mois dernier</text>
 <rect x="{PL}" y="{PT}" width="{baw}" height="{bah}" fill="#000000" opacity="0.1" rx="5"/>
 <line x1="{PL}" y1="{PT+bah}" x2="{W-PR}" y2="{PT+bah}" stroke="{BORD}" stroke-width="2"/>
 {''.join(bars)}
