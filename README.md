@@ -220,9 +220,9 @@ Implémentations d'algorithmes classiques et structures de données — avec ana
 <!-- Le snake sera visible après le premier Run du workflow GitHub Actions "Generate Snake Animation" -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ouzfeya7/ouzfeya7/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ouzfeya7/ouzfeya7/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/ouzfeya7/ouzfeya7/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ouzfeya7/ouzfeya7/output/github-contribution-grid-snake-dark.svg?v=2" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ouzfeya7/ouzfeya7/output/github-contribution-grid-snake.svg?v=2" />
+    <img src="https://raw.githubusercontent.com/ouzfeya7/ouzfeya7/output/github-contribution-grid-snake-dark.svg?v=2" alt="snake animation"/>
   </picture>
 </div>
 
@@ -232,9 +232,9 @@ Implémentations d'algorithmes classiques et structures de données — avec ana
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ouzfeya7/ouzfeya7/main/profile-3d-contrib/profile-night-rainbow.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ouzfeya7/ouzfeya7/main/profile-3d-contrib/profile-gitblock.svg" />
-    <img src="https://raw.githubusercontent.com/ouzfeya7/ouzfeya7/main/profile-3d-contrib/profile-gitblock.svg" alt="3D Contribution Graph" width="100%"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ouzfeya7/ouzfeya7/main/profile-3d-contrib/profile-night-rainbow.svg?v=2" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ouzfeya7/ouzfeya7/main/profile-3d-contrib/profile-gitblock.svg?v=2" />
+    <img src="https://raw.githubusercontent.com/ouzfeya7/ouzfeya7/main/profile-3d-contrib/profile-gitblock.svg?v=2" alt="3D Contribution Graph" width="100%"/>
   </picture>
 </div>
 
@@ -243,7 +243,7 @@ Implémentations d'algorithmes classiques et structures de données — avec ana
 ### <img src="https://api.iconify.design/lucide:quote.svg?color=%23BB9AF7" width="24" align="top"> Ma philosophie
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=5000&pause=2000&color=A9B1D6&center=true&vCenter=true&width=800&lines=Le%20roi%20des%20pirates%2C%20ce%20sera%20moi%21%20%E2%80%94%20Luffy%3BJe%20ne%20reviendrai%20jamais%20sur%20ma%20parole%21%20%E2%80%94%20Naruto%3BUn%20code%20propre%20vaut%20mieux%20qu%27un%20code%20rapide%20%E2%80%94%20Clean%20Code%3BLa%20seule%20limite%20%C3%A0%20notre%20%C3%A9panouissement%20de%20demain...%3B...sera%20nos%20doutes%20d%27aujourd%27hui%20%E2%80%94%20Franklin%20Roosevelt%3BOn%20ne%20devient%20pas%20Hokage%20en%20un%20jour%21%20%E2%80%94%20Naruto" alt="Citations animées" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=5000&pause=2000&color=A9B1D6&center=true&vCenter=true&width=800&lines=Le%20roi%20des%20pirates%2C%20ce%20sera%20moi%21%20%E2%80%94%20Luffy%3BJe%20ne%20reviendrai%20jamais%20sur%20ma%20parole%21%20%E2%80%94%20Naruto%3BUn%20code%20propre%20vaut%20mieux%20qu%27un%20code%20rapide%20%E2%80%94%20Clean%20Code%3BLa%20seule%20limite%20%C3%A0%20notre%20%C3%A9panouissement%20de%20demain...%3B...sera%20nos%20doutes%20d%27aujourd%27hui%20%E2%80%94%20Franklin%20Roosevelt%3BOn%20ne%20devient%20pas%20Hokage%20en%20un%20jour%21%20%E2%80%94%20Naruto&v=2" alt="Citations animées" />
 </div>
 
 ---
