@@ -126,13 +126,13 @@
 <br/><br/>
 
 <!-- Stats avancées avec animations (Instance alternative car l'officielle est en pause) -->
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ouzfeya7&show_icons=true&theme=tokyonight&title_color=7AA2F7&icon_color=BB9AF7&text_color=A9B1D6&bg_color=0D1117&hide_border=true&locale=fr" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ouzfeya7&show_icons=true&theme=tokyonight&title_color=7AA2F7&icon_color=BB9AF7&text_color=A9B1D6&bg_color=0D1117&hide_border=true&locale=fr&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ouzfeya7&layout=compact&theme=tokyonight&title_color=7AA2F7&text_color=A9B1D6&bg_color=0D1117&hide_border=true&locale=fr" alt="Top Languages" width="48%" />
 
 <br/><br/>
 
 <!-- Streak stats & WakaTime -->
-<img src="https://streak-stats.demolab.com?user=ouzfeya7&theme=tokyonight&hide_border=true&background=0D1117&ring=7AA2F7&fire=BB9AF7&currStreakLabel=7AA2F7&sideLabels=A9B1D6&dates=A9B1D6" alt="GitHub Streak" width="48%" />
+<img src="https://streak-stats.demolab.com?user=ouzfeya7&theme=tokyonight&hide_border=true&background=0D1117&ring=7AA2F7&fire=BB9AF7&currStreakLabel=7AA2F7&sideLabels=A9B1D6&dates=A9B1D6&count_private=true" alt="GitHub Streak" width="48%" />
 <!-- Les statistiques WakaTime nécessitent désormais le déploiement de sa propre instance avec l'API Key WakaTime, l'instance publique ne les supporte plus. -->
 <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ouzfeya7&layout=compact&theme=tokyonight&title_color=7AA2F7&text_color=A9B1D6&bg_color=0D1117&hide_border=true&langs_count=5" alt="Statistiques WakaTime" width="48%" /> -->
 
