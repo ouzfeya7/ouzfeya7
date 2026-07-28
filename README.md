@@ -243,7 +243,7 @@ Implémentations d'algorithmes classiques et structures de données — avec ana
 ### <img src="https://api.iconify.design/lucide:quote.svg?color=%23BB9AF7" width="24" align="top"> Ma philosophie
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=5000&pause=2000&color=A9B1D6&center=true&vCenter=true&width=800&lines=Le+roi+des+pirates%2C+ce+sera+moi!+—+Luffy;Je+ne+reviendrai+jamais+sur+ma+parole!+—+Naruto;Un+code+propre+vaut+mieux+qu'un+code+rapide+—+Clean+Code;La+seule+limite+à+notre+épanouissement+de+demain...;...sera+nos+doutes+d'aujourd'hui+—+Franklin+Roosevelt;On+ne+devient+pas+Hokage+en+un+jour!+—+Naruto" alt="Citations animées" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=5000&pause=2000&color=A9B1D6&center=true&vCenter=true&width=800&lines=Le%20roi%20des%20pirates%2C%20ce%20sera%20moi%21%20%E2%80%94%20Luffy%3BJe%20ne%20reviendrai%20jamais%20sur%20ma%20parole%21%20%E2%80%94%20Naruto%3BUn%20code%20propre%20vaut%20mieux%20qu%27un%20code%20rapide%20%E2%80%94%20Clean%20Code%3BLa%20seule%20limite%20%C3%A0%20notre%20%C3%A9panouissement%20de%20demain...%3B...sera%20nos%20doutes%20d%27aujourd%27hui%20%E2%80%94%20Franklin%20Roosevelt%3BOn%20ne%20devient%20pas%20Hokage%20en%20un%20jour%21%20%E2%80%94%20Naruto" alt="Citations animées" />
 </div>
 
 ---
