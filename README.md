@@ -147,7 +147,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ouzfeya7&bg_color=0D1117&color=7AA2F7&line=BB9AF7&point=A9B1D6&area=true&hide_border=true" alt="Graphe d'activité" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ouzfeya7&bg_color=0D1117&color=7AA2F7&line=BB9AF7&point=A9B1D6&area=true&hide_border=true&custom_title=Variations%20des%2030%20derniers%20jours" alt="Graphe d'activité" />
 
 </div>
 
