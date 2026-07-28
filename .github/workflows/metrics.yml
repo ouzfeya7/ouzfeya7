@@ -12,56 +12,11 @@ jobs:
       contents: write
 
     steps:
-      # ─── Checkout ────────────────────────────────────────────────────────────
       - name: Checkout
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.GH_TOKEN }}
 
-      # ─── 1) Stats générales ──────────────────────────────────────────────────
-      - name: Stats générales
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.GH_TOKEN }}
-          filename: metrics/stats.svg
-          base: header, activity, community, repositories
-          base_indepth: yes
-          repositories_batch: 100
-          config_timezone: Africa/Dakar
-          config_display: regular
-          output_action: commit
-          committer_message: "Update metrics/stats.svg [ci skip]"
-
-      # ─── 2) Langages utilisés ─────────────────────────────────────────────────
-      - name: Langages
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.GH_TOKEN }}
-          filename: metrics/languages.svg
-          base: ""
-          plugin_languages: yes
-          plugin_languages_indepth: yes
-          plugin_languages_details: bytes-size, percentage
-          plugin_languages_limit: 8
-          repositories_batch: 100
-          config_timezone: Africa/Dakar
-          output_action: commit
-          committer_message: "Update metrics/languages.svg [ci skip]"
-
-      # ─── 3) Calendrier de contributions ──────────────────────────────────────
-      - name: Calendrier
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.GH_TOKEN }}
-          filename: metrics/calendar.svg
-          base: ""
-          plugin_calendar: yes
-          plugin_calendar_limit: 1
-          config_timezone: Africa/Dakar
-          output_action: commit
-          committer_message: "Update metrics/calendar.svg [ci skip]"
-
-      # ─── 4) Activité 30j (script Python custom — API GraphQL directe) ────────
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
@@ -70,16 +25,16 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
-      - name: Générer activity.svg
+      - name: Generate all metrics SVGs
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-        run: python scripts/generate_activity.py
+        run: python scripts/generate_all_stats.py
 
-      - name: Commit activity.svg
+      - name: Commit & push
         run: |
           git config user.email "action@github.com"
           git config user.name "GitHub Actions"
           git pull --rebase --autostash
-          git add metrics/activity.svg
-          git diff --staged --quiet || git commit -m "Update metrics/activity.svg [ci skip]"
+          git add metrics/
+          git diff --staged --quiet || git commit -m "Update metrics SVGs [ci skip]"
           git push
