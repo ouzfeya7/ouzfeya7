@@ -12,7 +12,13 @@ jobs:
       contents: write
 
     steps:
-      # ─── Stats générales ──────────────────────────────────────────────────
+      # ─── Checkout ────────────────────────────────────────────────────────────
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+
+      # ─── 1) Stats générales ──────────────────────────────────────────────────
       - name: Stats générales
         uses: lowlighter/metrics@latest
         with:
@@ -24,20 +30,9 @@ jobs:
           config_timezone: Africa/Dakar
           config_display: regular
           output_action: commit
+          committer_message: "Update metrics/stats.svg [ci skip]"
 
-      # ─── Calendrier de contributions ──────────────────────────────────────
-      - name: Calendrier
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.GH_TOKEN }}
-          filename: metrics/calendar.svg
-          base: ""
-          plugin_calendar: yes
-          plugin_calendar_limit: 1
-          config_timezone: Africa/Dakar
-          output_action: commit
-
-      # ─── Langages utilisés ────────────────────────────────────────────────
+      # ─── 2) Langages utilisés ─────────────────────────────────────────────────
       - name: Langages
         uses: lowlighter/metrics@latest
         with:
@@ -51,17 +46,40 @@ jobs:
           repositories_batch: 100
           config_timezone: Africa/Dakar
           output_action: commit
+          committer_message: "Update metrics/languages.svg [ci skip]"
 
-      # ─── Activité récente ─────────────────────────────────────────────────
-      - name: Activité
+      # ─── 3) Calendrier de contributions ──────────────────────────────────────
+      - name: Calendrier
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GH_TOKEN }}
-          filename: metrics/activity.svg
+          filename: metrics/calendar.svg
           base: ""
-          plugin_activity: yes
-          plugin_activity_limit: 5
-          plugin_activity_days: 30
-          plugin_activity_filter: push, pull_request, issues, fork
+          plugin_calendar: yes
+          plugin_calendar_limit: 1
           config_timezone: Africa/Dakar
           output_action: commit
+          committer_message: "Update metrics/calendar.svg [ci skip]"
+
+      # ─── 4) Activité 30j (script Python custom — API GraphQL directe) ────────
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Générer activity.svg
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: python scripts/generate_activity.py
+
+      - name: Commit activity.svg
+        run: |
+          git config user.email "action@github.com"
+          git config user.name "GitHub Actions"
+          git pull --rebase
+          git add metrics/activity.svg
+          git diff --staged --quiet || git commit -m "Update metrics/activity.svg [ci skip]"
+          git push
