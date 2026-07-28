@@ -127,12 +127,12 @@
 
 <!-- Stats, langages et calendrier générés localement via GitHub Actions (voir .github/workflows/metrics.yml) -->
 <!-- Ces SVGs sont mis à jour toutes les 12h avec votre GH_TOKEN → inclut les dépôts privés -->
-<img src="https://raw.githubusercontent.com/ouzfeya7/ouzfeya7/main/metrics/stats.svg" alt="GitHub Stats" width="48%" />
-<img src="https://raw.githubusercontent.com/ouzfeya7/ouzfeya7/main/metrics/languages.svg" alt="Top Languages" width="48%" />
+<img src="https://raw.githubusercontent.com/ouzfeya7/ouzfeya7/main/metrics/stats.svg?v=3" alt="GitHub Stats" width="48%" />
+<img src="https://raw.githubusercontent.com/ouzfeya7/ouzfeya7/main/metrics/languages.svg?v=3" alt="Top Languages" width="48%" />
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/ouzfeya7/ouzfeya7/main/metrics/calendar.svg" alt="Calendrier de contributions" width="98%" />
+<img src="https://raw.githubusercontent.com/ouzfeya7/ouzfeya7/main/metrics/calendar.svg?v=3" alt="Calendrier de contributions" width="98%" />
 
 
 </div>
@@ -146,7 +146,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ouzfeya7/ouzfeya7/main/metrics/activity.svg" alt="Activité des 30 derniers jours" />
+<img src="https://raw.githubusercontent.com/ouzfeya7/ouzfeya7/main/metrics/activity.svg?v=3" alt="Activité des 30 derniers jours" />
 
 
 </div>
