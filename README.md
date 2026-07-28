@@ -9,11 +9,11 @@
 
 <br/><br/>
 
-<a href="https://linkedin.com/in/ousmane-faye-"><img src="https://img.shields.io/badge/LinkedIn-7AA2F7?style=flat&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn" height="40"/></a>
+<a href="https://linkedin.com/in/ousmane-faye-"><img src="https://img.shields.io/badge/LinkedIn-7AA2F7?style=flat&logo=data%3Aimage/svg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSJ3aGl0ZSIgdmlld0JveD0iMCAwIDI0IDI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzgtLjkyLTIuMDYzIDIuMDYzLTIuMDYzIDEuMTQgMCAyLjA2NC45MjUgMi4wNjQgMi4wNjMgMCAxLjEzOS0uOTI1IDIuMDY1LTIuMDY0IDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4%3D&labelColor=0D1117" alt="LinkedIn" height="48"/></a>
 &nbsp;
-<a href="mailto:ousmanefaye@esp.sn"><img src="https://img.shields.io/badge/Email-BB9AF7?style=flat&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email" height="40"/></a>
+<a href="mailto:ousmanefaye@esp.sn"><img src="https://img.shields.io/badge/Email-BB9AF7?style=flat&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email" height="48"/></a>
 &nbsp;
-<a href="https://github.com/ouzfeya7"><img src="https://img.shields.io/badge/GitHub-A9B1D6?style=flat&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub" height="40"/></a>
+<a href="https://github.com/ouzfeya7"><img src="https://img.shields.io/badge/GitHub-A9B1D6?style=flat&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub" height="48"/></a>
 
 <div align="center">
 
@@ -23,7 +23,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=ouzfeya7&label=Visiteurs&color=7AA2F7&style=flat" alt="Profile views" height="40"/>
+<img src="https://komarev.com/ghpvc/?username=ouzfeya7&label=Visiteurs&color=7AA2F7&style=flat" alt="Profile views" height="48"/>
 
 </div>
 
@@ -163,8 +163,8 @@
 
 ### <img src="https://api.iconify.design/lucide:landmark.svg?color=%23BB9AF7" width="22" align="top"> [UMMISCO — Portail Institutionnel](https://github.com/ouzfeya7/IPDL-project)
 
-<a href="https://github.com/ouzfeya7/IPDL-project"><img src="https://img.shields.io/github/languages/top/ouzfeya7/IPDL-project?style=flat&color=7AA2F7&labelColor=0D1117" alt="lang" height="32"/></a>
-<a href="https://github.com/ouzfeya7/IPDL-project"><img src="https://img.shields.io/github/languages/code-size/ouzfeya7/IPDL-project?style=flat&color=BB9AF7&labelColor=0D1117" alt="code-size" height="32"/></a>
+<a href="https://github.com/ouzfeya7/IPDL-project"><img src="https://img.shields.io/github/languages/top/ouzfeya7/IPDL-project?style=flat&color=7AA2F7&labelColor=0D1117" alt="lang" height="36"/></a>
+<a href="https://github.com/ouzfeya7/IPDL-project"><img src="https://img.shields.io/github/languages/code-size/ouzfeya7/IPDL-project?style=flat&color=BB9AF7&labelColor=0D1117" alt="code-size" height="36"/></a>
 
 Portail institutionnel de l'UMMISCO ESP/UCAD — **Next.js 14 + FastAPI + PostgreSQL**, auth Keycloak OAuth2/OIDC, stockage MinIO, recherche MeiliSearch.
 
@@ -175,7 +175,7 @@ Portail institutionnel de l'UMMISCO ESP/UCAD — **Next.js 14 + FastAPI + Postgr
 
 ### <img src="https://api.iconify.design/lucide:shopping-cart.svg?color=%23BB9AF7" width="22" align="top"> E-Commerce Full Stack
 
-<a href="https://github.com/ouzfeya7"><img src="https://img.shields.io/badge/Stack-React%20%2B%20Spring-7AA2F7?style=flat&labelColor=0D1117" alt="Stack" height="32"/></a>
+<a href="https://github.com/ouzfeya7"><img src="https://img.shields.io/badge/Stack-React%20%2B%20Spring-7AA2F7?style=flat&labelColor=0D1117" alt="Stack" height="36"/></a>
 
 Application e-commerce complète — **Clean Architecture**, auth JWT, panier, commandes, dashboard admin. React/TypeScript + Spring Boot + MySQL.
 
@@ -188,7 +188,7 @@ Application e-commerce complète — **Clean Architecture**, auth JWT, panier, c
 
 ### <img src="https://api.iconify.design/lucide:bot.svg?color=%23BB9AF7" width="22" align="top"> Machine Learning & Data
 
-<a href="https://github.com/ouzfeya7"><img src="https://img.shields.io/badge/Stack-Python%20%2B%20Pandas-BB9AF7?style=flat&labelColor=0D1117" alt="Stack" height="32"/></a>
+<a href="https://github.com/ouzfeya7"><img src="https://img.shields.io/badge/Stack-Python%20%2B%20Pandas-BB9AF7?style=flat&labelColor=0D1117" alt="Stack" height="36"/></a>
 
 Exploration et analyse de données — modèles prédictifs, visualisations, nettoyage de datasets réels avec **Python, pandas & scikit-learn**.
 
@@ -199,7 +199,7 @@ Exploration et analyse de données — modèles prédictifs, visualisations, net
 
 ### <img src="https://api.iconify.design/lucide:git-merge.svg?color=%23BB9AF7" width="22" align="top"> Algorithmes & DSA
 
-<a href="https://github.com/ouzfeya7"><img src="https://img.shields.io/badge/Stack-Java%20%2B%20TypeScript-9ECE6A?style=flat&labelColor=0D1117" alt="Stack" height="32"/></a>
+<a href="https://github.com/ouzfeya7"><img src="https://img.shields.io/badge/Stack-Java%20%2B%20TypeScript-9ECE6A?style=flat&labelColor=0D1117" alt="Stack" height="36"/></a>
 
 Implémentations d'algorithmes classiques et structures de données — avec analyses de complexité et **tests JUnit/Jest**.
 
@@ -255,9 +255,9 @@ Implémentations d'algorithmes classiques et structures de données — avec ana
 <p><strong>Je réponds sous 24h &nbsp;·&nbsp; Disponible en Français & Anglais</strong></p>
 
 <p>
-  <a href="https://linkedin.com/in/ousmane-faye-"><img src="https://img.shields.io/badge/LinkedIn-7AA2F7?style=flat&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn" height="40"/></a>
+  <a href="https://linkedin.com/in/ousmane-faye-"><img src="https://img.shields.io/badge/LinkedIn-7AA2F7?style=flat&logo=data%3Aimage/svg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSJ3aGl0ZSIgdmlld0JveD0iMCAwIDI0IDI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzgtLjkyLTIuMDYzIDIuMDYzLTIuMDYzIDEuMTQgMCAyLjA2NC45MjUgMi4wNjQgMi4wNjMgMCAxLjEzOS0uOTI1IDIuMDY1LTIuMDY0IDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4%3D&labelColor=0D1117" alt="LinkedIn" height="48"/></a>
   &nbsp;
-  <a href="mailto:ousmanefaye@esp.sn"><img src="https://img.shields.io/badge/Email-BB9AF7?style=flat&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email" height="40"/></a>
+  <a href="mailto:ousmanefaye@esp.sn"><img src="https://img.shields.io/badge/Email-BB9AF7?style=flat&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email" height="48"/></a>
 </p>
 
 <p><strong>Ouvert aux stages, collaborations open source et projets innovants !</strong></p>
