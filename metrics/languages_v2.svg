@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="240" viewBox="0 0 440 240">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#161b22"/>
+    <stop offset="100%" stop-color="#0d1117"/>
+  </linearGradient>
+</defs>
+<style>text{font-family:'Segoe UI', system-ui, -apple-system, sans-serif}</style>
+<rect width="440" height="240" rx="10" fill="url(#bg)" stroke="#30363d"/>
+<text x="35" y="45" font-size="18" font-weight="700" fill="#c9d1d9">Langages les plus utilisés</text>
+<clipPath id="sc"><rect x="35" y="70" width="370" height="12" rx="6"/></clipPath><g clip-path="url(#sc)"><rect x="35" y="70" width="370" height="12" rx="6" fill="#30363d"/><rect x="35.0" y="70" width="253.3" height="12" fill="#3178c6"/><rect x="288.3" y="70" width="83.4" height="12" fill="#3572A5"/><rect x="371.6" y="70" width="20.4" height="12" fill="#DA5B0B"/><rect x="392.0" y="70" width="7.5" height="12" fill="#e34c26"/><rect x="399.5" y="70" width="5.5" height="12" fill="#663399"/></g>
+<circle cx="41" cy="101" r="6" fill="#3178c6"/><text x="55" y="106" font-size="14" font-weight="600" fill="#c9d1d9">TypeScript</text><text x="405" y="106" font-size="13" fill="#8b949e" text-anchor="end">66.7%</text><circle cx="41" cy="127" r="6" fill="#3572A5"/><text x="55" y="132" font-size="14" font-weight="600" fill="#c9d1d9">Python</text><text x="405" y="132" font-size="13" fill="#8b949e" text-anchor="end">22.0%</text><circle cx="41" cy="153" r="6" fill="#DA5B0B"/><text x="55" y="158" font-size="14" font-weight="600" fill="#c9d1d9">Jupyter Notebook</text><text x="405" y="158" font-size="13" fill="#8b949e" text-anchor="end">5.4%</text><circle cx="41" cy="179" r="6" fill="#e34c26"/><text x="55" y="184" font-size="14" font-weight="600" fill="#c9d1d9">HTML</text><text x="405" y="184" font-size="13" fill="#8b949e" text-anchor="end">2.0%</text><circle cx="41" cy="205" r="6" fill="#663399"/><text x="55" y="210" font-size="14" font-weight="600" fill="#c9d1d9">CSS</text><text x="405" y="210" font-size="13" fill="#8b949e" text-anchor="end">1.5%</text>
+</svg>
