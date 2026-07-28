@@ -4,6 +4,8 @@ on:
   schedule:
     - cron: "0 */12 * * *"
   push:
+    branches:
+      - main
     paths:
       - 'scripts/generate_all_stats.py'
       - '.github/workflows/metrics.yml'
@@ -18,8 +20,6 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GH_TOKEN }}
 
       - name: Setup Python
         uses: actions/setup-python@v5
