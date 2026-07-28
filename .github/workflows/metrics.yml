@@ -62,6 +62,6 @@ jobs:
           plugin_activity: yes
           plugin_activity_limit: 5
           plugin_activity_days: 30
-          plugin_activity_filter: push, pr, issue
+          plugin_activity_filter: push, pull_request, issues, fork
           config_timezone: Africa/Dakar
           output_action: commit
