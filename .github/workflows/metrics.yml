@@ -1,0 +1,67 @@
+name: GitHub Metrics
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      # ─── Stats générales ──────────────────────────────────────────────────
+      - name: Stats générales
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+          filename: metrics/stats.svg
+          base: header, activity, community, repositories
+          base_indepth: yes
+          repositories_batch: 100
+          config_timezone: Africa/Dakar
+          config_display: regular
+          output_action: commit
+
+      # ─── Calendrier de contributions ──────────────────────────────────────
+      - name: Calendrier
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+          filename: metrics/calendar.svg
+          base: ""
+          plugin_calendar: yes
+          plugin_calendar_limit: 1
+          config_timezone: Africa/Dakar
+          output_action: commit
+
+      # ─── Langages utilisés ────────────────────────────────────────────────
+      - name: Langages
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+          filename: metrics/languages.svg
+          base: ""
+          plugin_languages: yes
+          plugin_languages_indepth: yes
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 8
+          repositories_batch: 100
+          config_timezone: Africa/Dakar
+          output_action: commit
+
+      # ─── Activité récente ─────────────────────────────────────────────────
+      - name: Activité
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+          filename: metrics/activity.svg
+          base: ""
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 30
+          plugin_activity_filter: push, pr, issue
+          config_timezone: Africa/Dakar
+          output_action: commit
