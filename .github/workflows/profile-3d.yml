@@ -19,7 +19,7 @@ jobs:
           git config --global user.email "action@github.com"
           git config --global user.name "GitHub Action"
           git remote set-url origin https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/ouzfeya7/ouzfeya7.git
+          git pull origin main --rebase
           git add -A
           git commit -m "Generate 3D contribution graph" || exit 0
-          git pull origin main --rebase
           git push
