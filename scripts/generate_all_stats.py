@@ -218,8 +218,13 @@ def calendar_svg(u):
     H = 220
 
     LVL = ["#161b22", "#0e4429", "#006d32", "#26a641", "#39d353"]
+    MONTHS_FR = {1:"Jan", 2:"Fév", 3:"Mar", 4:"Avr", 5:"Mai", 6:"Juin", 
+                 7:"Juil", 8:"Août", 9:"Sep", 10:"Oct", 11:"Nov", 12:"Déc"}
 
-    cells, month_labels = [], {}
+    cells = []
+    month_labels = {}
+    last_month = None
+    
     for wi, week in enumerate(weeks):
         for day in week["contributionDays"]:
             dt  = datetime.fromisoformat(day["date"])
@@ -231,8 +236,10 @@ def calendar_svg(u):
             cells.append(
                 f'<rect x="{x}" y="{y}" width="{CELL}" height="{CELL}" rx="3" fill="{LVL[lvl]}"/>'
             )
-            if dt.day <= 7 and wi not in month_labels.values():
-                month_labels[wi] = dt.strftime("%b")
+            
+            if dt.month != last_month:
+                month_labels[wi] = MONTHS_FR[dt.month]
+                last_month = dt.month
 
     mlabels = [
         f'<text x="{PAD_L + wi*(CELL+GAP)}" y="{PAD_T-8}" font-size="12" fill="{TEXT}">{m}</text>'
