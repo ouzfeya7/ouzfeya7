@@ -336,10 +336,10 @@ def main():
     os.makedirs("metrics", exist_ok=True)
 
     for name_s, fn in [
-        ("stats",     stats_svg),
-        ("languages", languages_svg),
-        ("calendar",  calendar_svg),
-        ("activity",  activity_svg),
+        ("stats_v2",     stats_svg),
+        ("languages_v2", languages_svg),
+        ("calendar_v2",  calendar_svg),
+        ("activity_v2",  activity_svg),
     ]:
         path = f"metrics/{name_s}.svg"
         with open(path, "w", encoding="utf-8") as f:

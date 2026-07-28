@@ -127,12 +127,12 @@
 
 <!-- Stats, langages et calendrier générés localement via GitHub Actions (voir .github/workflows/metrics.yml) -->
 <!-- Ces SVGs sont mis à jour toutes les 12h avec votre GH_TOKEN → inclut les dépôts privés -->
-<img src="./metrics/stats.svg" alt="GitHub Stats" width="48%" />
-<img src="./metrics/languages.svg" alt="Top Languages" width="48%" />
+<img src="./metrics/stats_v2.svg" alt="GitHub Stats" width="48%" />
+<img src="./metrics/languages_v2.svg" alt="Top Languages" width="48%" />
 
 <br/><br/>
 
-<img src="./metrics/calendar.svg" alt="Calendrier de contributions" width="98%" />
+<img src="./metrics/calendar_v2.svg" alt="Calendrier de contributions" width="98%" />
 
 
 </div>
@@ -146,7 +146,7 @@
 
 <div align="center">
 
-<img src="./metrics/activity.svg" alt="Activité des 30 derniers jours" />
+<img src="./metrics/activity_v2.svg" alt="Activité des 30 derniers jours" />
 
 
 </div>
