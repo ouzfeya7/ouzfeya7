@@ -244,15 +244,9 @@ Implémentations d'algorithmes classiques et structures de données — avec ana
 
 ### <img src="https://api.iconify.design/lucide:quote.svg?color=%23BB9AF7" width="24" align="top"> Ma philosophie
 
-> 💬 *"Talk is cheap. Show me the code."* — **Linus Torvalds**
->
-> 💡 *"On ne naît pas homme : on le devient."* — **Simone de Beauvoir**
->
-> 🌑 *"Tu dois voir la réalité en face, les choses ne se déroulent pas toujours comme on le voudrait. Plus on vieillit, et plus on prend conscience d'une chose : quoi qu'on t'ait raconté, la vie sur terre est souvent synonyme de douleur, de souffrance et de vacuité, et ça, tu ne peux rien y faire. Écoute bien. Tu es persuadé d'agir pour la cause, mais sache que toute lumière comporte une part d'ombre ; il n'y a pas d'exception à la règle. Tant qu'il existera des vainqueurs, il existera des vaincus. Ce désir égoïste de préserver la paix est à l'origine de bien des guerres. C'est donc au nom de l'amour qu'on engendre la haine."* — **Madara Uchiha**
->
-> ⚖️ *"Les pirates ☠️ ce serait le mal, la marine la justice. Les valeurs s'en vont ça vient et ça a changé de tellement de fois. Il y a des enfants 👦 qui n'ont jamais connu la paix, Et d'autres qui n'ont jamais 👎 connu la guerre, Comment voudriez-vous qu'ils aient les même valeurs. Il n'y que ce qui se tiennent au sommet qui décide ce qui est le bien 😇 est le mal 😈. C'est pour cela qu'aujourd'hui on est en pleine zone neutre. ... La justice vaincra tt'elle... Biensur que oui 🙌 Parce que la justice n'appartient qu'aux vainqueurs."* — **Don Quichotte Doflamingo**
->
-> 👁️ *"Personne n'a le droit de nous juger avant la fin, parce que l'Homme est capable du meilleur comme du pire jusqu'au bout. Au fond, ce n'est qu'au moment de disparaître que l'on peut enfin savoir qui on a été. La fin donne un sens à tout ce qui a précédé."* — **Itachi Uchiha**
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=4000&pause=1000&color=A9B1D6&center=true&vCenter=true&width=800&lines=On+ne+naît+pas+homme+:+on+le+devient.+—+Simone+de+Beauvoir;Tu+dois+voir+la+réalité+en+face...;les+choses+ne+se+déroulent+pas+toujours+comme+on+le+voudrait.;Plus+on+vieillit,+et+plus+on+prend+conscience+d'une+chose+:;quoi+qu'on+t'ait+raconté,+la+vie+sur+terre+est+souvent+synonyme;de+douleur,+de+souffrance+et+de+vacuité...;et+ça,+tu+ne+peux+rien+y+faire.;Écoute+bien.+Tu+es+persuadé+d'agir+pour+la+cause,;mais+sache+que+toute+lumière+comporte+une+part+d'ombre+;il+n'y+a+pas+d'exception+à+la+règle.;Tant+qu'il+existera+des+vainqueurs,+il+existera+des+vaincus.;Ce+désir+égoïste+de+préserver+la+paix;est+à+l'origine+de+bien+des+guerres.;C'est+donc+au+nom+de+l'amour+qu'on+engendre+la+haine.+—+Madara;Les+pirates+ce+serait+le+mal,+la+marine+la+justice.;Les+valeurs+s'en+vont+ça+vient+et+ça+a+changé+tellement+de+fois.;Il+y+a+des+enfants+qui+n'ont+jamais+connu+la+paix,;Et+d'autres+qui+n'ont+jamais+connu+la+guerre,;Comment+voudriez-vous+qu'ils+aient+les+même+valeurs.;Il+n'y+que+ceux+qui+se+tiennent+au+sommet;qui+décident+ce+qui+est+le+bien+et+le+mal.;C'est+pour+cela+qu'aujourd'hui+on+est+en+pleine+zone+neutre.;La+justice+vaincra+t'elle...+Biensur+que+oui+!;Parce+que+la+justice+n'appartient+qu'aux+vainqueurs.+—+Doflamingo;Personne+n'a+le+droit+de+nous+juger+avant+la+fin,;parce+que+l'Homme+est+capable+du+meilleur+comme+du+pire.;Au+fond,+ce+n'est+qu'au+moment+de+disparaître;que+l'on+peut+enfin+savoir+qui+on+a+été.;La+fin+donne+un+sens+à+tout+ce+qui+a+précédé.+—+Itachi" alt="Citations animées" />
+</div>
 
 ---
 
