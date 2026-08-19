@@ -244,6 +244,12 @@ Implémentations d'algorithmes classiques et structures de données — avec ana
 
 ### <img src="https://api.iconify.design/lucide:quote.svg?color=%23BB9AF7" width="24" align="top"> Ma philosophie
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=4500&pause=1500&color=BB9AF7&center=true&vCenter=true&width=800&lines=Talk+is+cheap.+Show+me+the+code.+%E2%80%94+Linus+Torvalds;On+ne+nait+pas+homme+%3A+on+le+devient.+%E2%80%94+Simone+de+Beauvoir;Tant+qu%27il+existera+des+vainqueurs%2C+il+existera+des+vaincus.+%E2%80%94+Madara;La+justice+n%27appartient+qu%27aux+vainqueurs.+%E2%80%94+Doflamingo;La+fin+donne+un+sens+a+tout+ce+qui+a+precede.+%E2%80%94+Itachi;First%2C+solve+the+problem.+Then%2C+write+the+code.;Le+code+que+tu+ecris+aujourd%27hui+construit+le+monde+de+demain." alt="Citations animées" />
+</div>
+
+<br/>
+
 > 💡 *"On ne naît pas homme : on le devient."* — **Simone de Beauvoir**
 >
 > 🌑 *"Tu dois voir la réalité en face, les choses ne se déroulent pas toujours comme on le voudrait. Plus on vieillit, et plus on prend conscience d'une chose : quoi qu'on t'ait raconté, la vie sur terre est souvent synonyme de douleur, de souffrance et de vacuité, et ça, tu ne peux rien y faire. Écoute bien. Tu es persuadé d'agir pour la cause, mais sache que toute lumière comporte une part d'ombre ; il n'y a pas d'exception à la règle. Tant qu'il existera des vainqueurs, il existera des vaincus. Ce désir égoïste de préserver la paix est à l'origine de bien des guerres. C'est donc au nom de l'amour qu'on engendre la haine."* — **Madara Uchiha**
