@@ -14,6 +14,8 @@
 <a href="mailto:ousmanefaye@esp.sn"><img src="https://img.shields.io/badge/Email-BB9AF7?style=flat&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email" height="48"/></a>
 &nbsp;
 <a href="https://github.com/ouzfeya7"><img src="https://img.shields.io/badge/GitHub-A9B1D6?style=flat&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub" height="48"/></a>
+&nbsp;
+<a href="https://portfolio-ousmanefaye.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-7AA2F7?style=flat&logo=vercel&logoColor=white&labelColor=0D1117" alt="Portfolio" height="48"/></a>
 
 <div align="center">
 
@@ -242,9 +244,15 @@ Implémentations d'algorithmes classiques et structures de données — avec ana
 
 ### <img src="https://api.iconify.design/lucide:quote.svg?color=%23BB9AF7" width="24" align="top"> Ma philosophie
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=5000&pause=2000&color=A9B1D6&center=true&vCenter=true&width=800&lines=Le%20roi%20des%20pirates%2C%20ce%20sera%20moi%21%20%E2%80%94%20Luffy%3BJe%20ne%20reviendrai%20jamais%20sur%20ma%20parole%21%20%E2%80%94%20Naruto%3BUn%20code%20propre%20vaut%20mieux%20qu%27un%20code%20rapide%20%E2%80%94%20Clean%20Code%3BLa%20seule%20limite%20%C3%A0%20notre%20%C3%A9panouissement%20de%20demain...%3B...sera%20nos%20doutes%20d%27aujourd%27hui%20%E2%80%94%20Franklin%20Roosevelt%3BOn%20ne%20devient%20pas%20Hokage%20en%20un%20jour%21%20%E2%80%94%20Naruto&v=2" alt="Citations animées" />
-</div>
+> 💬 *"Talk is cheap. Show me the code."* — **Linus Torvalds**
+>
+> 💡 *"On ne naît pas homme : on le devient."* — **Simone de Beauvoir**
+>
+> 🌑 *"Tu dois voir la réalité en face, les choses ne se déroulent pas toujours comme on le voudrait. Plus on vieillit, et plus on prend conscience d'une chose : quoi qu'on t'ait raconté, la vie sur terre est souvent synonyme de douleur, de souffrance et de vacuité, et ça, tu ne peux rien y faire. Écoute bien. Tu es persuadé d'agir pour la cause, mais sache que toute lumière comporte une part d'ombre ; il n'y a pas d'exception à la règle. Tant qu'il existera des vainqueurs, il existera des vaincus. Ce désir égoïste de préserver la paix est à l'origine de bien des guerres. C'est donc au nom de l'amour qu'on engendre la haine."* — **Madara Uchiha**
+>
+> ⚖️ *"Les pirates ☠️ ce serait le mal, la marine la justice. Les valeurs s'en vont ça vient et ça a changé de tellement de fois. Il y a des enfants 👦 qui n'ont jamais connu la paix, Et d'autres qui n'ont jamais 👎 connu la guerre, Comment voudriez-vous qu'ils aient les même valeurs. Il n'y que ce qui se tiennent au sommet qui décide ce qui est le bien 😇 est le mal 😈. C'est pour cela qu'aujourd'hui on est en pleine zone neutre. ... La justice vaincra tt'elle... Biensur que oui 🙌 Parce que la justice n'appartient qu'aux vainqueurs."* — **Don Quichotte Doflamingo**
+>
+> 👁️ *"Personne n'a le droit de nous juger avant la fin, parce que l'Homme est capable du meilleur comme du pire jusqu'au bout. Au fond, ce n'est qu'au moment de disparaître que l'on peut enfin savoir qui on a été. La fin donne un sens à tout ce qui a précédé."* — **Itachi Uchiha**
 
 ---
 
@@ -258,6 +266,8 @@ Implémentations d'algorithmes classiques et structures de données — avec ana
   <a href="https://linkedin.com/in/ousmane-faye-"><img src="https://img.shields.io/badge/LinkedIn-7AA2F7?style=flat&logo=data%3Aimage/svg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSJ3aGl0ZSIgdmlld0JveD0iMCAwIDI0IDI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzgtLjkyLTIuMDYzIDIuMDYzLTIuMDYzIDEuMTQgMCAyLjA2NC45MjUgMi4wNjQgMi4wNjMgMCAxLjEzOS0uOTI1IDIuMDY1LTIuMDY0IDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4%3D&labelColor=0D1117" alt="LinkedIn" height="48"/></a>
   &nbsp;
   <a href="mailto:ousmanefaye@esp.sn"><img src="https://img.shields.io/badge/Email-BB9AF7?style=flat&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email" height="48"/></a>
+  &nbsp;
+  <a href="https://portfolio-ousmanefaye.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-7AA2F7?style=flat&logo=vercel&logoColor=white&labelColor=0D1117" alt="Portfolio" height="48"/></a>
 </p>
 
 <p><strong>Ouvert aux stages, collaborations open source et projets innovants !</strong></p>
